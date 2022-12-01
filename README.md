@@ -6,9 +6,10 @@ Machine learning is a tool that allows systems the ability to learn and improve 
 The primary object of machine learning is to allow the system to learn automatically without human intervention. This allows the system to adjust and take action accordingly.  The learning process begins with the system observing reference data and experiences based on that data. The system then begins to understand and learn what actions to take when specific patterns within a data set present themselves.
 ![1_zHuGSwosBKFOZNKweIpWqw](https://user-images.githubusercontent.com/113829967/205041031-20da97a2-a5b5-42ed-a036-3d91ea44f3d7.jpeg)
 
-## Screenshots
+## Images
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
 
 # Different types of Machine Learning
 ## Machine learning algorithms are divided into 4 primary types.
