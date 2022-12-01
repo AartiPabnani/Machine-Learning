@@ -9,7 +9,8 @@ The primary object of machine learning is to allow the system to learn automatic
 ## Images
 
 
-![Uploading images.jfif…]()
+
+![App-for-windows-768x569](https://user-images.githubusercontent.com/113829967/205041799-be646f78-e152-4827-8c8e-d836e11dbabd.jpg)
 
 
 # Different types of Machine Learning
